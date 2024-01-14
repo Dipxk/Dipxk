@@ -70,14 +70,9 @@
 </summary>
 <br>
 <p align="center">
-  <a href="https://github.com/Ratheshan03">
-    <img align="center"  height="175px" src="https://github-readme-stats.vercel.app/api?username=Ratheshan03&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-  </a>
-  <a href="https://github.com/Ratheshan03">
+  <a href="https://github.com/Dipxk">
     <img align="center" height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ratheshan03&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
   </a>
-</p>
-  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ratheshan03&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" alt="Ratheshan03" /></p>
 </details>
 
 ---
@@ -93,13 +88,9 @@
   <a href="https://www.instagram.com/ratheshan_03/">
     <img align="left" alt="Ratheshan Sathiyamoorthy | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
   </a>
-   <a href="https://www.facebook.com/profile.php?id=100003874786181">
-    <img align="left" alt="Ratheshan Sathiyamoorthy| Github" width="26px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />
-  </a>
    <a href="https://github.com/Dipxk">
     <img align="left" alt="Dipak Kumar| Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
   </a>
   <br>
   
-<p align="right" > Created with 🖤 by <a href="https://github.com/Ratheshan03">Ratheshan03</a></p>
-<p align="right" > <img src="https://komarev.com/ghpvc/?username=Ratheshan03&label=Profile%20views&color=0e75b6&style=flat" alt="Ratheshan03" /> </p>
+<p align="right" > Created with 🖤 by <a href="https://github.com/Dipxk">Dipak Kumar</a></p>
