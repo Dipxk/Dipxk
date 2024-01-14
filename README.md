@@ -13,10 +13,10 @@
 
 <h3>Little facts about me 🧑</h3>
 
-- 🔭 I’m currently working on Fullstack Web Development, Native Mobile Development.
+- 🔭 I’m currently working on Fullstack Development.
 - 👯 I’m looking to collaborate with Fullstack Development Projects.
-- 💡 Contributing to Open Source Projects is always been a goal to me.
-- ⚡ Fun fact: I love Sports, especially Cricket.
+- 💡 Contributing to Open Source Projects and maximizing my software development journey is a goal for me.
+- ⚡ I love sports, Boxing and Badminton.
 <br>
 
 ---
