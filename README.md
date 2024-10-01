@@ -5,7 +5,7 @@
 
 <p align="center">
   <em>
-    This is <b>Dipak Kumar</b>, 2nd year <b>Computer Science</b> undergraduate from <a href="https://www.uottawa.ca/en"> <b>University of Ottawa</b>, Canada</a>.
+    This is <b>Dipak Kumar</b>, 3rd year <b>Computer Science</b> undergraduate from <a href="https://www.uottawa.ca/en"> <b>University of Ottawa</b>, Canada</a>.
     An aspiring <b>Full-Stack Software Developer,</b>&nbsp; <b>Competitive Programmer</b>&nbsp;
   <br>
   <b><i>"---Trust yourself & the process---"</i></b>
