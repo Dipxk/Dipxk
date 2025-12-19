@@ -5,7 +5,7 @@
 
 <p align="center">
   <em>
-    This is <b>Dipak Kumar</b>, 3rd year <b>Computer Science</b> undergraduate from <a href="https://www.uottawa.ca/en"> <b>University of Ottawa</b>, Canada</a>.
+    This is <b>Dipak Kumar</b>, 4th year <b>Computer Science</b> undergraduate from <a href="https://www.uottawa.ca/en"> <b>University of Ottawa</b>, Canada</a>.
     An aspiring <b>Full-Stack Software Developer,</b>&nbsp; <b>Competitive Programmer</b>&nbsp;
   <br>
   <b><i>"---Trust yourself & the process---"</i></b>
@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on Fullstack Development.
 - 👯 I’m looking to collaborate with Fullstack Development Projects.
-- 💡 Contributing to Open Source Projects and maximizing my software development journey is a goal for me.
+- 💡 Contributing to Open Source Projects and maximizing my AI/ML journey is a goal for me.
 - ⚡ I love sports, Boxing and Badminton.
 <br>
 
